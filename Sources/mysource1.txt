@@ -1,3 +1,6 @@
 code change 1
 code chage 2
 code change 3
+
+
+new feature FROM MASTER for next release
